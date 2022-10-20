@@ -1,0 +1,51 @@
+main{
+    margin-top: 200px;
+width: 75%;
+padding: 5%;
+margin: 5%;    
+margin-left: 100px;
+background-color: aquamarine;
+ display: block;
+flex-wrap: wrap;
+justify-content: center;
+box-shadow: 0 0 10px 2px rgb(0, 255, 179);       
+}
+
+body{
+
+    background-image: url(../anjo/56.jpg); 
+    background-size: 100%;
+        background-attachment: fixed; 
+        padding: 30px;
+        
+    }
+
+.fig {
+    display: block; /* Блочный элемент (для старых браузеров) */
+    text-align: center; /* Выравнивание по центру */
+    font-style: italic; /* Курсивное начертание */
+    margin-top: 0; /* Отступ сверху */
+    margin-bottom: 2px; /* Отступ снизу */
+    color: #666(87, 209, 127); /* Цвет подрисуночной подписи */
+    line-height: 2cm;
+    text-shadow: 10px;
+    width: 100%;
+   }
+.dig{
+    text-align: center;
+}
+.bro1{
+    text-align: center;
+
+}
+.bro2{
+    text-align: center;
+    
+}
+.bro3{
+    text-align: center;
+}
+
+.inst{
+    text-align: center;
+}

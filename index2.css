@@ -1,0 +1,102 @@
+* {
+    padding: 0;
+     margin: 0; 
+    box-sizing: border-box;
+}
+    
+
+body{
+
+    background-image: url(../anjo/55.jpg); 
+    background-size: 100%;
+        background-attachment: fixed; 
+        padding: 30px;
+        
+    }
+
+
+    main{
+        margin-top: 200px;
+    width: 75%;
+    padding: 5%;
+    margin: 5%;    
+    margin-left: 100px;
+    background-color: rgb(17, 240, 147);
+     display: block;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-shadow: 0 0 10px 2px rgb(0, 255, 179);       
+    }
+
+.privet{
+    text-align: center;
+}
+
+
+
+.dp{
+    text-align: center;
+    line-height: 2cm;
+}
+
+.div2{
+    text-align: center;
+    line-height: 3cm;
+}
+
+.ssylka{
+    color: rgb(0, 0, 0);
+text-align: center;
+line-height: 2cm;
+width: 100%;
+display: block;
+flex-wrap: wrap;
+background-attachment: fixed;
+background-color: rgb(0, 255, 42);
+
+
+}
+
+.fig {
+    display: block; /* Блочный элемент (для старых браузеров) */
+    text-align: center; /* Выравнивание по центру */
+    font-style: italic; /* Курсивное начертание */
+    margin-top: 0; /* Отступ сверху */
+    margin-bottom: 2px; /* Отступ снизу */
+    color: #666(87, 209, 127); /* Цвет подрисуночной подписи */
+    line-height: 2cm;
+    text-shadow: 10px;
+    width: 100%;
+   }
+
+   .fig2 {
+    font-size: medium;
+    display: block; /* Блочный элемент (для старых браузеров) */
+    text-align: center; /* Выравнивание по центру */
+    font-style: italic; /* Курсивное начертание */
+    margin-top: 0; /* Отступ сверху */
+    margin-bottom: 2px; /* Отступ снизу */
+    color: #666(87, 209, 127); /* Цвет подрисуночной подписи */
+    line-height: 2cm;
+
+   }
+   .div3{
+    text-align: center;
+    font-style: italic;
+    list-style: 0px;
+    color: #666(87, 209, 127);
+    width: 100%;
+/* background-color: darkcyan; */
+   }
+
+
+
+   *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+  
+   
+    
+     
